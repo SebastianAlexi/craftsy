@@ -1,0 +1,31 @@
+.home{
+    margin: 0px;
+    background-image:url("/images/bg-2.png");
+}
+.home .header{
+    padding: 20px;
+    background-color: #ff4602;
+}
+.home .header ul{
+    padding: 0;
+    margin: 0;
+}
+.home .header ul li{display: inline-block;position: relative;}
+.home .header ul li img{
+    position: absolute;
+    top: -24px;
+}
+.home .header ul li a{
+    margin-left: 300px;
+}
+.home .header ul li a i{
+    color: white;
+    border: solid 1px white;
+    padding: 3px 4px;
+}
+.home main div img{
+}
+.home main{
+}
+.home nav .productos{}
+
